@@ -112,6 +112,42 @@
     "thumbnail": null,
     "token_address": "0xe6b53eaba71ae7f1599b0322daa90876e1f0f2d2"
   },
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "",
+    "explorerLogo": "",
+    "name": "GCC CLUB",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "GCC",
+    "thumbnail": null,
+    "token_address": "0x8a6561ce637ed85e322b0ebd6cf4d9822ed1c965"
+  },
+
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "",
+    "explorerLogo": "",
+    "name": "DEV",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "DEV",
+    "thumbnail": null,
+    "token_address": "0x51a8b1150f02cd25b6064062942857321c8f9b9c"
+  },
+
+
+  
   {
     "balance": 0,
     "chainId": "0x38",
