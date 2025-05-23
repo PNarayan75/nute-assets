@@ -14,6 +14,25 @@
     "thumbnail": null,
     "token_address": "0x8b7453cfbee659f819d2e3cecb4f7099d21293cb"
   },
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11821.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11821.png",
+    "name": "SMT Token",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "SMT",
+    "thumbnail": null,
+    "token_address": "0x9Ce628EfF562513264d2DA93bB846b6F890bb9c1"
+  },
+
+
+
   {
     "balance": 0,
     "chainId": "0x38",
