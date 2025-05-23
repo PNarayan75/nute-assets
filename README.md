@@ -1,2 +1,0 @@
-# nute-assets
-DTBX wallet
