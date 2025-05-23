@@ -31,8 +31,87 @@
     "token_address": "0x9Ce628EfF562513264d2DA93bB846b6F890bb9c1"
   },
 
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20818.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20818.png",
+    "name": "INR",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "INR",
+    "thumbnail": null,
+    "token_address": "0xe235c2a73bd99872f3ea1bf8a4e0016f3b3ff644"
+  },
 
 
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/cloud/img/dex/default-icon-dark-v3.svg?_=7f56e21",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/cloud/img/dex/default-icon-dark-v3.svg?_=7f56e21",
+    "name": "Malas",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "MALS",
+    "thumbnail": null,
+    "token_address": "0x7065264bc30155bc8011ca46d6680b8cbf17289f"
+  },
+
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "explorerLogo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+    "name": "Tether USD",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "USDT",
+    "thumbnail": null,
+    "token_address": "0xe1e1b71840fc40b1f6a999aec6d6fefe24aa4ecf"
+  },
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "",
+    "explorerLogo": "",
+    "name": "Wrapped DTBX",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "WDTBX",
+    "thumbnail": null,
+    "token_address": "0x70e4975f22d5dde23f00b056f410923149a0af15"
+  },
+
+{
+    "balance": 0,
+    "chainId": "0x1EF3",
+    "slug": "dtbx",
+    "decimals": 18,
+    "logo": "",
+    "explorerLogo": "",
+    "name": "GANESH TOKEN",
+    "possible_spam": false,
+    "show": false,
+    "type": "token",
+    "symbol": "GSHT",
+    "thumbnail": null,
+    "token_address": "0xe6b53eaba71ae7f1599b0322daa90876e1f0f2d2"
+  },
   {
     "balance": 0,
     "chainId": "0x38",
