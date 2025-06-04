@@ -34,8 +34,8 @@
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
           "coingecko_id": "binancecoin"
-        },
-      ],
+        }
+      ]
     },
     {
       "name": "USD Coin",
@@ -72,7 +72,7 @@
           "supports_eip1559": false,
           "coingecko_id": "binancecoin"
         }
-      ],
+      ]
     },
     {
       "name": "Ethereum",
