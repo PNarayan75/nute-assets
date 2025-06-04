@@ -3,7 +3,7 @@
     {
       "name": "Tether",
       "symbol": "USDT",
-      "icon": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "icon": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
       "chains": [
         {
           "name": "Ethereum",
@@ -40,7 +40,7 @@
     {
       "name": "USD Coin",
       "symbol": "USDC",
-      "icon": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "icon": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "chains": [
         {
           "name": "Ethereum",
@@ -77,7 +77,7 @@
     {
       "name": "Ethereum",
       "symbol": "ETH",
-      "icon": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "icon": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
       "chains": [
         {
           "name": "Ethereum",
