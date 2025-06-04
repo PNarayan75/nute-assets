@@ -33,67 +33,9 @@
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "tether"
+          "coingecko_id": "binancecoin"
         },
-        {
-          "name": "Ethereum",
-          "chain_id": 1,
-          "type": "ERC-20",
-          "contract_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "decimals": 6,
-          "rpc_url": "https://mainnet.infura.io/v3/YOUR_KEY",
-          "explorer_url": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "block_explorer_tx_url_prefix": "https://etherscan.io/tx/",
-          "is_native": false,
-          "gas_limit": 60000,
-          "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
-          "supports_eip1559": true,
-          "coingecko_id": "tether"
-        },
-        {
-          "name": "BNB Chain",
-          "chain_id": 56,
-          "type": "BEP-20",
-          "contract_address": "0x55d398326f99059fF775485246999027B3197955",
-          "decimals": 18,
-          "rpc_url": "https://bsc-dataseed.binance.org/",
-          "explorer_url": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
-          "block_explorer_tx_url_prefix": "https://bscscan.com/tx/",
-          "is_native": false,
-          "gas_limit": 60000,
-          "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
-          "supports_eip1559": false,
-          "coingecko_id": "tether"
-        },{
-          "name": "Ethereum",
-          "chain_id": 1,
-          "type": "ERC-20",
-          "contract_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "decimals": 6,
-          "rpc_url": "https://mainnet.infura.io/v3/YOUR_KEY",
-          "explorer_url": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "block_explorer_tx_url_prefix": "https://etherscan.io/tx/",
-          "is_native": false,
-          "gas_limit": 60000,
-          "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
-          "supports_eip1559": true,
-          "coingecko_id": "tether"
-        },
-        {
-          "name": "BNB Chain",
-          "chain_id": 56,
-          "type": "BEP-20",
-          "contract_address": "0x55d398326f99059fF775485246999027B3197955",
-          "decimals": 18,
-          "rpc_url": "https://bsc-dataseed.binance.org/",
-          "explorer_url": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
-          "block_explorer_tx_url_prefix": "https://bscscan.com/tx/",
-          "is_native": false,
-          "gas_limit": 60000,
-          "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
-          "supports_eip1559": false,
-          "coingecko_id": "tether"
-        }
+        
       ]
     },
     {
@@ -114,23 +56,23 @@
           "gas_limit": 60000,
           "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
           "supports_eip1559": true,
-          "coingecko_id": "usd-coin"
+          "coingecko_id": "ethereum"
         },
-        {
+          {
           "name": "BNB Chain",
           "chain_id": 56,
           "type": "BEP-20",
-          "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "contract_address": "0x55d398326f99059fF775485246999027B3197955",
           "decimals": 18,
           "rpc_url": "https://bsc-dataseed.binance.org/",
-          "explorer_url": "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "explorer_url": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
           "block_explorer_tx_url_prefix": "https://bscscan.com/tx/",
           "is_native": false,
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "usd-coin"
-        }
+          "coingecko_id": "binancecoin"
+        },
       ]
     },
     {
@@ -152,21 +94,21 @@
           "supports_eip1559": true,
           "coingecko_id": "ethereum"
         },
-        {
+       {
           "name": "BNB Chain",
           "chain_id": 56,
           "type": "BEP-20",
-          "contract_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+          "contract_address": "0x55d398326f99059fF775485246999027B3197955",
           "decimals": 18,
           "rpc_url": "https://bsc-dataseed.binance.org/",
-          "explorer_url": "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+          "explorer_url": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
           "block_explorer_tx_url_prefix": "https://bscscan.com/tx/",
           "is_native": false,
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "ethereum"
-        }
+          "coingecko_id": "binancecoin"
+        },
       ]
     }
   ]
