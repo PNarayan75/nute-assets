@@ -79,6 +79,15 @@
       "token_standard": "BEP-20",
       "icon": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
       "tokens": [
+         {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 1,
+          "slug": "tether"
+        },
         {
           "name": "Binance USD",
           "symbol": "BUSD",
