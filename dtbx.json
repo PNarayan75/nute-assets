@@ -18,7 +18,8 @@
           "gas_limit": 60000,
           "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
           "supports_eip1559": true,
-          "coingecko_id": "tether"
+          "coingecko_id": "tether",
+          "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
         },
         {
           "name": "BNB Chain",
@@ -33,7 +34,8 @@
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "binancecoin"
+          "coingecko_id": "binancecoin",
+          "icon": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png"
         }
       ]
     },
@@ -55,7 +57,8 @@
           "gas_limit": 60000,
           "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
           "supports_eip1559": true,
-          "coingecko_id": "ethereum"
+          "coingecko_id": "ethereum",
+          "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
         },
         {
           "name": "BNB Chain",
@@ -70,7 +73,8 @@
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "binancecoin"
+          "coingecko_id": "binancecoin",
+          "icon": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png"
         }
       ]
     },
@@ -91,7 +95,9 @@
           "gas_limit": 21000,
           "gas_price_source": "https://ethgasstation.info/api/ethgasAPI.json",
           "supports_eip1559": true,
-          "coingecko_id": "ethereum"
+          "coingecko_id": "ethereum",
+          "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+          
         },
         {
           "name": "BNB Chain",
@@ -106,7 +112,10 @@
           "gas_limit": 60000,
           "gas_price_source": "https://api.bscscan.com/api?module=gastracker&action=gasoracle",
           "supports_eip1559": false,
-          "coingecko_id": "binancecoin"
+          "coingecko_id": "binancecoin",
+          "icon": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png"
+          
+          
         }
       ]
     }
