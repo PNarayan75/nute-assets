@@ -2,133 +2,199 @@
   "chains": [
     {
       "chain": "Ethereum",
+      "chainId": 1,
+      "slug": "ethereum",
       "token_standard": "ERC-20",
+      "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
       "tokens": [
         {
           "name": "Tether USD",
           "symbol": "USDT",
           "contract_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-          "decimals": 6
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 1,
+          "slug": "tether"
         },
         {
           "name": "USD Coin",
           "symbol": "USDC",
           "contract_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-          "decimals": 6
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 1,
+          "slug": "usd-coin"
         },
         {
           "name": "Chainlink",
           "symbol": "LINK",
           "contract_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png",
+          "chainId": 1,
+          "slug": "chainlink"
         },
         {
           "name": "Dai",
           "symbol": "DAI",
           "contract_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/9956/large/DAI_Logo.png",
+          "chainId": 1,
+          "slug": "multi-collateral-dai"
         },
         {
           "name": "Uniswap",
           "symbol": "UNI",
           "contract_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png",
+          "chainId": 1,
+          "slug": "uniswap"
         },
         {
           "name": "Tectum Emission Token",
           "symbol": "TET",
           "contract_address": "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a",
-          "decimals": 8
+          "decimals": 8,
+          "icon": "https://assets.coingecko.com/coins/images/30246/large/TET-logo-transparent.png",
+          "chainId": 1,
+          "slug": "tectum"
         },
         {
           "name": "Polymath",
           "symbol": "POLY",
           "contract_address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/2784/large/inKkF01.png",
+          "chainId": 1,
+          "slug": "polymath"
         }
       ]
     },
     {
       "chain": "Binance Smart Chain",
+      "chainId": 56,
+      "slug": "binance-smart-chain",
       "token_standard": "BEP-20",
+      "icon": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
       "tokens": [
         {
           "name": "Binance USD",
           "symbol": "BUSD",
           "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png",
+          "chainId": 56,
+          "slug": "binance-usd"
         },
         {
           "name": "PancakeSwap",
           "symbol": "CAKE",
           "contract_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo.png",
+          "chainId": 56,
+          "slug": "pancakeswap-token"
         },
         {
           "name": "Alpha Finance Lab",
           "symbol": "ALPHA",
           "contract_address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12738/large/AlphaToken_256x256.png",
+          "chainId": 56,
+          "slug": "alpha-finance"
         },
         {
           "name": "Alpaca Finance",
           "symbol": "ALPACA",
           "contract_address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/14165/large/Logo200x200.png",
+          "chainId": 56,
+          "slug": "alpaca-finance"
         },
         {
           "name": "BSCPad",
           "symbol": "BSCPAD",
           "contract_address": "0x5a3010f6ee1fd188e32c83e96e1e2be98c6e6d64",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/14124/large/BSCPAD-Logo.png",
+          "chainId": 56,
+          "slug": "bscpad"
         },
         {
           "name": "Burger Swap",
           "symbol": "BURGER",
           "contract_address": "0xae9269f27437f0f516d58177f8b48b57f8b2a057",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12403/large/burger.png",
+          "chainId": 56,
+          "slug": "burger-swap"
         },
         {
           "name": "Venus",
           "symbol": "XVS",
           "contract_address": "0xcf6bb5389c92bdda8a3747f2719f1472b90e871e",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12677/large/venus.jpg",
+          "chainId": 56,
+          "slug": "venus"
         }
       ]
     },
     {
       "chain": "TRON",
+      "chainId": 728126428,
+      "slug": "tron",
       "token_standard": "TRC-20",
+      "icon": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png",
       "tokens": [
         {
           "name": "Tether USD",
           "symbol": "USDT",
           "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-          "decimals": 6
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 728126428,
+          "slug": "tether"
         },
         {
           "name": "JUST",
           "symbol": "JST",
           "contract_address": "TCFLL5dx5ZJdKnWuesU68v19C6f77qLnJt",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/11095/large/JUST_new_200x200.png",
+          "chainId": 728126428,
+          "slug": "just"
         },
         {
           "name": "Revain",
           "symbol": "REV",
           "contract_address": "TL2zP3XXrrgZwX2rXb5m3cF3Ws1t3bYH5Z",
-          "decimals": 6
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/11076/large/revain.png",
+          "chainId": 728126428,
+          "slug": "revain"
         },
         {
           "name": "BitTorrent",
           "symbol": "BTT",
           "contract_address": "TAFjULxiVgT4qWk6UZwjqwZXTS5eHKNq6Z",
-          "decimals": 18
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/22457/large/btt_logo.png",
+          "chainId": 728126428,
+          "slug": "bittorrent"
         },
         {
           "name": "WINkLink",
           "symbol": "WIN",
           "contract_address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-          "decimals": 6
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/9126/large/WINk.png",
+          "chainId": 728126428,
+          "slug": "wink"
         }
       ]
     }
