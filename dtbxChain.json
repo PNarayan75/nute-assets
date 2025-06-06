@@ -7,7 +7,7 @@
       "token_standard": "ERC-20",
       "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
       "explorer_url": "https://etherscan.io",
-      "rpcUrl":"https://eth.llamarpc.com",
+      "rpcUrl": "https://eth.llamarpc.com",
       "tokens": [
         {
           "name": "Ethereum",
@@ -45,7 +45,7 @@
       "token_standard": "BEP-20",
       "icon": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
       "explorer_url": "https://bscscan.com",
-       "rpcUrl":"https://binance.llamarpc.com",
+      "rpcUrl": "https://binance.llamarpc.com",
       "tokens": [
         {
           "name": "Binance Coin",
@@ -72,6 +72,120 @@
           "decimals": 18,
           "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
           "chainId": 56,
+          "slug": "usd-coin"
+        }
+      ]
+    },
+    {
+      "chain": "Polygon",
+      "chainId": 137,
+      "slug": "polygon",
+      "token_standard": "ERC-20",
+      "icon": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
+      "explorer_url": "https://polygonscan.com",
+      "rpcUrl": "https://polygon-rpc.com",
+      "tokens": [
+        {
+          "name": "Polygon",
+          "symbol": "MATIC",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
+          "chainId": 137,
+          "slug": "matic-network"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 137,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 137,
+          "slug": "usd-coin"
+        }
+      ]
+    },
+    {
+      "chain": "Avalanche C-Chain",
+      "chainId": 43114,
+      "slug": "avalanche",
+      "token_standard": "ERC-20",
+      "icon": "https://assets.coingecko.com/coins/images/12559/large/avalanche.png",
+      "explorer_url": "https://snowtrace.io",
+      "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+      "tokens": [
+        {
+          "name": "Avalanche",
+          "symbol": "AVAX",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/12559/large/avalanche.png",
+          "chainId": 43114,
+          "slug": "avalanche-2"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 43114,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 43114,
+          "slug": "usd-coin"
+        }
+      ]
+    },
+    {
+      "chain": "Fantom",
+      "chainId": 250,
+      "slug": "fantom",
+      "token_standard": "ERC-20",
+      "icon": "https://assets.coingecko.com/coins/images/4001/large/Fantom_round.png",
+      "explorer_url": "https://ftmscan.com",
+      "rpcUrl": "https://rpc.ftm.tools",
+      "tokens": [
+        {
+          "name": "Fantom",
+          "symbol": "FTM",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/4001/large/Fantom_round.png",
+          "chainId": 250,
+          "slug": "fantom"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 250,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 250,
           "slug": "usd-coin"
         }
       ]
