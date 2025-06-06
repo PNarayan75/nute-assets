@@ -185,7 +185,7 @@
       "chainId": 42161,
       "slug": "arbitrum",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/16547/large/arbitrum.png",
+      "icon": "https://assets.coingecko.com/coins/images/16547/standard/arb.jpg?1721358242",
       "tokens": [
         {
           "name": "Ethereum",
@@ -221,7 +221,7 @@
       "chainId": 10,
       "slug": "optimism",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/25244/large/optimism.png",
+      "icon": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png?1696524385",
       "tokens": [
         {
           "name": "Ethereum",
@@ -257,7 +257,7 @@
       "chainId": 43114,
       "slug": "avalanche",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/12559/large/avalanche.png",
+      "icon": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369",
       "tokens": [
         {
           "name": "Avalanche",
@@ -293,7 +293,7 @@
       "chainId": 8453,
       "slug": "base",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/31079/large/base.jpeg",
+      "icon": "https://assets.coingecko.com/coins/images/54287/standard/B3.png?1739001374",
       "tokens": [
         {
           "name": "Ethereum",
