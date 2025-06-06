@@ -119,7 +119,7 @@
       "chainId": 43114,
       "slug": "avalanche",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/12559/large/avalanche.png",
+      "icon": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369",
       "explorer_url": "https://snowtrace.io",
       "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
       "tokens": [
