@@ -151,44 +151,6 @@
           "slug": "usd-coin"
         }
       ]
-    },
-    {
-      "chain": "Fantom",
-      "chainId": 250,
-      "slug": "fantom",
-      "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/4001/large/Fantom_round.png",
-      "explorer_url": "https://ftmscan.com",
-      "rpcUrl": "https://rpc.ftm.tools",
-      "tokens": [
-        {
-          "name": "Fantom",
-          "symbol": "FTM",
-          "contract_address": "0x0000000000000000000000000000000000000000",
-          "decimals": 18,
-          "icon": "https://assets.coingecko.com/coins/images/4001/large/Fantom_round.png",
-          "chainId": 250,
-          "slug": "fantom"
-        },
-        {
-          "name": "Tether USD",
-          "symbol": "USDT",
-          "contract_address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
-          "decimals": 6,
-          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
-          "chainId": 250,
-          "slug": "tether"
-        },
-        {
-          "name": "USD Coin",
-          "symbol": "USDC",
-          "contract_address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
-          "decimals": 6,
-          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
-          "chainId": 250,
-          "slug": "usd-coin"
-        }
-      ]
     }
   ]
 }
