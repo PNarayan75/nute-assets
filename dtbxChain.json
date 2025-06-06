@@ -7,6 +7,7 @@
       "token_standard": "ERC-20",
       "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
       "explorer_url": "https://etherscan.io",
+      "rpcUrl":"https://eth.llamarpc.com",
       "tokens": [
         {
           "name": "Ethereum",
@@ -44,6 +45,7 @@
       "token_standard": "BEP-20",
       "icon": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
       "explorer_url": "https://bscscan.com",
+       "rpcUrl":"https://binance.llamarpc.com",
       "tokens": [
         {
           "name": "Binance Coin",
@@ -81,6 +83,7 @@
       "token_standard": "TRC-20",
       "icon": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png",
       "explorer_url": "https://tronscan.org",
+       "rpcUrl":"",
       "tokens": [
         {
           "name": "TRON",
