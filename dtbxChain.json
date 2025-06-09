@@ -151,6 +151,46 @@
           "slug": "usd-coin"
         }
       ]
+    },
+    {
+      "chain": "TRON",
+      "chainId": 728126428,
+      "slug": "tron",
+      "token_standard": "TRC-20",
+      "icon": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png",
+      "explorer_url": "https://tronscan.org",
+      "tokens": [
+        {
+          "name": "TRON",
+          "symbol": "TRX",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png",
+          "chainId": 728126428,
+          "slug": "tron"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 728126428,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 728126428,
+          "slug": "usd-coin"
+        }
+      ]
     }
+
+
+    
   ]
 }
