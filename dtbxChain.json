@@ -193,7 +193,7 @@
       "chain": "Bitcoin",
       "chainId": 0,
       "slug": "bitcoin",
-      "token_standard": "N/A",
+      "token_standard": "BTC",
       "icon": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
       "explorer_url": "https://blockchain.com/explorer",
       "rpcUrl": "N/A",
