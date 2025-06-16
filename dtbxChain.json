@@ -188,6 +188,26 @@
           "slug": "usd-coin"
         }
       ]
+    },
+    {
+      "chain": "Bitcoin",
+      "chainId": 0,
+      "slug": "bitcoin",
+      "token_standard": "N/A",
+      "icon": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "explorer_url": "https://blockchain.com/explorer",
+      "rpcUrl": "N/A",
+      "tokens": [
+        {
+          "name": "Bitcoin",
+          "symbol": "BTC",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 8,
+          "icon": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+          "chainId": 0,
+          "slug": "bitcoin"
+        }
+      ]
     }
 
 
