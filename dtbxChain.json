@@ -128,7 +128,7 @@
           "symbol": "AVAX",
           "contract_address": "0x0000000000000000000000000000000000000000",
           "decimals": 18,
-          "icon": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369" ,
+          "icon": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369",
           "chainId": 43114,
           "slug": "avalanche-2"
         },
@@ -208,8 +208,120 @@
           "slug": "bitcoin"
         }
       ]
+    },
+    {
+      "chain": "Solana",
+      "chainId": 101,
+      "slug": "solana",
+      "token_standard": "SPL",
+      "icon": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
+      "explorer_url": "https://solscan.io",
+      "rpcUrl": "https://api.mainnet-beta.solana.com",
+      "tokens": [
+        {
+          "name": "Solana",
+          "symbol": "SOL",
+          "contract_address": "So11111111111111111111111111111111111111112",
+          "decimals": 9,
+          "icon": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
+          "chainId": 101,
+          "slug": "solana"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 101,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 101,
+          "slug": "usd-coin"
+        }
+      ]
+    },
+    {
+      "chain": "Base",
+      "chainId": 8453,
+      "slug": "base",
+      "token_standard": "ERC-20",
+      "icon": "https://assets.coingecko.com/coins/images/34639/large/base.jpeg",
+      "explorer_url": "https://basescan.org",
+      "rpcUrl": "https://mainnet.base.org",
+      "tokens": [
+        {
+          "name": "Ether",
+          "symbol": "ETH",
+          "contract_address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "icon": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+          "chainId": 8453,
+          "slug": "ethereum"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "0xfde4C96c8593536c3FcFAdFaAb13E406A1B7822c",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 8453,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 8453,
+          "slug": "usd-coin"
+        }
+      ]
+    },
+    {
+      "chain": "TON",
+      "chainId": 1000,
+      "slug": "the-open-network",
+      "token_standard": "Jetton",
+      "icon": "https://assets.coingecko.com/coins/images/17980/large/ton_symbol.png",
+      "explorer_url": "https://tonscan.org",
+      "rpcUrl": "https://toncenter.com/api/v2/jsonRPC",
+      "tokens": [
+        {
+          "name": "Toncoin",
+          "symbol": "TON",
+          "contract_address": "0:0000000000000000000000000000000000000000",
+          "decimals": 9,
+          "icon": "https://assets.coingecko.com/coins/images/17980/large/ton_symbol.png",
+          "chainId": 1000,
+          "slug": "the-open-network"
+        },
+        {
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "contract_address": "EQCxE6mUtQJKFnGfaROTKOt1lzbDiiXzb1M2b67fY4M7TBNY",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+          "chainId": 1000,
+          "slug": "tether"
+        },
+        {
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "contract_address": "EQB-MBLV0DX2A8pu9rUo1Z0zK2QbN2tQ_L0o9Yf4yVsjL2bL",
+          "decimals": 6,
+          "icon": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+          "chainId": 1000,
+          "slug": "usd-coin"
+        }
+      ]
     }
-
-    
   ]
 }
