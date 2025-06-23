@@ -252,7 +252,7 @@
       "chainId": 8453,
       "slug": "base",
       "token_standard": "ERC-20",
-      "icon": "https://assets.coingecko.com/coins/images/34639/large/base.jpeg",
+      "icon": "https://assets.coingecko.com/asset_platforms/images/131/small/base-network.png?1720533039",
       "explorer_url": "https://basescan.org",
       "rpcUrl": "https://mainnet.base.org",
       "tokens": [
