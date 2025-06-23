@@ -292,7 +292,7 @@
       "token_standard": "Jetton",
       "icon": "https://assets.coingecko.com/coins/images/17980/large/ton_symbol.png",
       "explorer_url": "https://tonscan.org",
-      "rpcUrl": "https://toncenter.com/api/v2/jsonRPC",
+      "rpcUrl": "https://toncenter.com/api/v2",
       "tokens": [
         {
           "name": "Toncoin",
